@@ -1,0 +1,77 @@
+body {
+	border-top: 5px solid #4cb2e5;
+	margin: 0 auto;
+	font-family: arial;
+	width: 900px;
+	
+}
+
+#begin {
+	width: 900px;
+	margin: 0 auto;
+	
+}
+
+#menu{
+	float: left;
+	margin-top: 60px;
+}
+#menu ul {
+	margin: 0;
+	padding: 0;
+}
+#menu ul li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px
+	
+}
+#menu ul li a{
+	color: #333333 ;
+	text-decoration: none;
+	
+}
+#menu ul lu a :hover {
+	border-bottom: 5px solid
+	
+}
+
+#logo {
+	float: right;
+	margin-top: 30px ;
+	
+}
+#banner {
+	clear: both;
+	border-bottom: 2px solid black;
+}
+
+.box {
+	display: inline-block;
+	margin-left: 10px ;
+	margin-top: 100px;
+}
+
+.konten {
+	display: inline-block;
+	margin: 0px 5px;
+	width: 287px;
+	margin-top: 30px;
+}
+
+input[type="text"]{
+	background: #EEEEEE;
+	border: none;
+	padding: 8px 16px;
+	box-shadow: 2px 2px 2px #333 inset;
+	margin: 10px 0;
+	width: 255px;
+}
+
+input[type="submit"]{
+	background: url(gambar/tombol_bg.jpg);
+	border: none;
+	padding: 8px 16px;
+	float: right;
+	margin: 10px;
+}
