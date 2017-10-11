@@ -31,9 +31,8 @@ body {
 	text-decoration: none;
 	
 }
-#menu ul lu a :hover {
-	border-bottom: 5px solid
-	
+#menu ul li a:hover {
+	border-bottom: 5px solid;
 }
 
 #logo {
